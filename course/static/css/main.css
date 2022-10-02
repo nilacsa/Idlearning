@@ -21,7 +21,7 @@
             .head{
                 padding-top: 150;
                 text-align: center;
-                font-size: 80px;
+                font-size: 60;
                 font-weight: 700;
             }
             .button
@@ -54,6 +54,7 @@
             .mission
             {
                 padding-top: 10px;
+                
             }
             #headmission
             {
@@ -148,10 +149,8 @@
             }
             .pikture
             {
-                /* background-attachment: fixed; */
                 background-repeat: no-repeat;
                 background-size: 1500px 780px;
-                /* background-position: top; */
             }
             #kryptonite
             {
